@@ -18,7 +18,9 @@
   </a>
 </p>
 
-![HTMLI](https://ibb.co.com/XDpqsYn)
+<br>
+<center><img src="https://ibb.co.com/XDpqsYn"></center>
+<br>
 
 ## Features:
 
