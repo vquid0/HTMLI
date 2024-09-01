@@ -23,9 +23,6 @@
 - **HTML Injection (HTMLi)**
 - **XML External Entity (XXE) Injection**
 
-### But it's shit! And your Tool Sucks!
-- Yes, you're probably correct. Feel free to "Not use it" and there is a pull button to "Make it better".
-
 # Installation
 ```bash
 git clone https://github.com/vquid0/HTMLI
