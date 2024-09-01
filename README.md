@@ -12,7 +12,7 @@
   <a href="python.org">
     <img src="https://img.shields.io/badge/HTMLI-Python-blue">
   </a>
-   <img alt="Static Badge" src="https://img.shields.io/badge/License-GPL-3.0-grey">
+   <img alt="Static Badge" src="https://img.shields.io/badge/License-GPLv3-grey">
   </a>
       <img alt="Static Badge" src="https://img.shields.io/badge/Status-Beta-orange">
   </a>
