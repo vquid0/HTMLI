@@ -1,9 +1,6 @@
 <h1 align="center">
   <br>
   <a href="https://github.com/vquid0/HTMLI"><h1>HTMLI</h1></a>
-  <br>
-  XSStrike
-  <br>
 </h1>
 
 <h4 align="center">Automates HTML injection, HTTP Parameter Pollution, and XXE vulnerabilities.</h4>
