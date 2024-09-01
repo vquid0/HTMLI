@@ -31,6 +31,13 @@
 ### But it's shit! And your Tool Sucks!
 - Yes, you're probably correct. Feel free to "Not use it" and there is a pull button to "Make it better".
 
+# Installation
+```bash
+git clone https://github.com/vquid0/HTMLI
+cd HTMLI
+pip install -r requirements.txt
+```
+
 ## Usage
 
 `python htmli.py -u <target_url> [--hpp] [--htmli] [--xxe]`
