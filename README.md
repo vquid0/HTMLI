@@ -34,7 +34,7 @@
 
 **Arguments:**
 
-- `-u`, `--url`: The target website URL (required).
+- `-u`, `--url`: The target website URL.
 - `--hpp`:  Enable HTTP Parameter Pollution testing.
 - `--htmli`: Enable HTML Injection testing.
 - `--xxe`: Enable XXE Injection testing. 
