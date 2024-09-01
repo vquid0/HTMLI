@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 - **Test for all vulnerabilities:**
   ```bash
-  python web_vulnerability_assassin.py -u "https://example.com" --hpp --htmli --xxe
+  python htmli.py -u "https://example.com" --hpp --htmli --xxe
 
 ## Important Notes
 Use this tool ethically and responsibly.                                                           
