@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Automates HTML injection, HTTP pollution, and XXE vulnerabilities.</h4>
+<h4 align="center">Automates HTML injection, HTTP Parameter Pollution, and XXE vulnerabilities.</h4>
 
 <p align="center">
   <a href="python.org">
