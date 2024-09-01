@@ -1,6 +1,4 @@
-<h1 align="center">
-  <a href="https://github.com/vquid0/HTMLI"><h1>HTMLI</h1></a>
-</h1>
+<center><a href="https://github.com/vquid0/HTMLI"><h1>HTMLI</h1></a></center>
 
 <h4 align="center">Automates HTML injection, HTTP Parameter Pollution, and XXE vulnerabilities.</h4>
 
