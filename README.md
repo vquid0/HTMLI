@@ -1,5 +1,4 @@
 <h1 align="center">
-  <br>
   <a href="https://github.com/vquid0/HTMLI"><h1>HTMLI</h1></a>
 </h1>
 
